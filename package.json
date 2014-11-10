@@ -1,0 +1,29 @@
+{
+  "name": "treslek-tv",
+  "version": "0.0.0",
+  "description": "A treslek plugin that grabs episode information about TV shows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirwin/treslek-tv.git"
+  },
+  "keywords": [
+    "treslek",
+    "irc",
+    "tv"
+  ],
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirwin/treslek-tv/issues"
+  },
+  "homepage": "https://github.com/jirwin/treslek-tv",
+  "dependencies": {
+    "moment": "^2.8.3",
+    "request": "^2.47.0",
+    "sprintf": "^0.1.4"
+  }
+}
