@@ -1,6 +1,6 @@
 {
   "name": "treslek-tv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A treslek plugin that grabs episode information about TV shows",
   "main": "index.js",
   "scripts": {
